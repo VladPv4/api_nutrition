@@ -1,0 +1,7 @@
+,,food_name,serving_unit,tag_name,serving_qty,common_type,tag_id,photo,locale,nix_brand_id,brand_name_item_name,nf_calories,brand_name,region,brand_type,nix_item_id
+Cherry,common,cherry cheesecake,piece,cherry cheesecake,1,,4840,{'thumb': 'https://d2xdmhkmkbyw75.cloudfront.net/4840_thumb.jpg'},en_US,,,,,,,
+Cherry,branded,Cherry Cola,bottle,,1,,,{'thumb': 'https://d1r9wva3zcpswd.cloudfront.net/5cc2b1fe09f222cc5d559288.jpeg'},en_US,51db37df176fe9790a89a29d,Coca-Cola Cherry Cola,260.0,Coca-Cola,1.0,2.0,51d2fae2cc9bff111580d8b1
+Strawberry,common,bolthouse farms strawberry banana smoothie,fl oz,bolthouse farms strawberry banana smoothie,8,2.0,11300,"{'thumb': 'https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png', 'highres': None, 'is_user_uploaded': False}",en_US,,,,,,,
+Strawberry,branded,Strawberry Shake,fl oz,,11,,,{'thumb': 'https://d1r9wva3zcpswd.cloudfront.net/5cc94aaaff1ea3ca30cc41c5.jpeg'},en_US,51db37b2176fe9790a898605,Atkins Strawberry Shake,160.0,Atkins,1.0,2.0,53d2941d7e863521777a7d3b
+Snickers,common,snickers marathon protein performance bar,bar,Snickers Marathon Protein Performance Bar,1,,2976,"{'thumb': 'https://d2eawub7utcl6.cloudfront.net/images/nix-apple-grey.png', 'highres': None, 'is_user_uploaded': False}",en_US,,,,,,,
+Snickers,branded,Chocolate Minis,pieces,,4,,,{'thumb': 'https://d1r9wva3zcpswd.cloudfront.net/56667d7f56233f67365d53c6.jpeg'},en_US,51db37be176fe9790a898ec5,Snickers Chocolate Minis,170.0,Snickers,1.0,2.0,56667d9836f978d10cb4b0fb
